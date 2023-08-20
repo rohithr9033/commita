@@ -9,3 +9,6 @@ git status = for checking status
 git add =  to staging area
 git commit -m "msg" - for commiting to  local repositarygi
 git log - to check commited filesclr
+git add . = to  add all files
+git diff filename = to  see differenceg
+git checkout filename = to go back
