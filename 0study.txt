@@ -17,3 +17,15 @@ git checkout filename = to go back
 
 git remote add origin name = github connecting repositaryg
 $ git push -u origin main
+
+//git ignpre
+git rm --cached -r . =to re remove from directory whwn we add
+
+
+git ognore
+make file .gitignore
+secret2.txt
+secret1.txt
+# this is comment 
+
+#*.txt = those have txt extension ignore
