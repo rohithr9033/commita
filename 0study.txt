@@ -29,3 +29,8 @@ secret1.txt
 # this is comment 
 
 #*.txt = those have txt extension ignore
+
+//clone
+git clone name
+
+//branching and merging
