@@ -34,3 +34,6 @@ secret1.txt
 git clone name
 
 //branching and merging
+git branch = for checcking brancches
+git check branchout = for swutching branch
+git branch branchname= for creating new branch
