@@ -14,3 +14,6 @@ git diff filename = to  see differenceg
 git checkout filename = to go back
  press q = for exitinf git log
   git log -n 3(no) = for showing the no of commits
+
+git remote add origin name = github connecting repositaryg
+$ git push -u origin main
