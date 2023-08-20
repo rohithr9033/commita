@@ -12,3 +12,5 @@ git log - to check commited filesclr
 git add . = to  add all files
 git diff filename = to  see differenceg
 git checkout filename = to go back
+ press q = for exitinf git log
+  git log -n 3(no) = for showing the no of commits
