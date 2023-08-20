@@ -1,0 +1,11 @@
+touch =for crear new text file
+ls view file
+ls -a for viewing hidden files
+code file name - for opening file
+
+//git  working directory - staging area - local repositary -  git repositary
+git init = for initializig git
+git status = for checking status
+git add =  to staging area
+git commit -m "msg" - for commiting to  local repositarygi
+git log - to check commited filesclr
